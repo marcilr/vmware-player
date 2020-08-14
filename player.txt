@@ -1,0 +1,22 @@
+player.txt
+Created Fri Aug 14 10:41:22 AKDT 2020
+Copyright 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+VMware player related links
+
+
+Links
+=====
+VMware Workstation Player 15.5
+"Use VMware Workstation Player to create, run, evaluate, 
+and share software running in virtual machines: Create: 
+Use VMware Workstation Player to create virtual machines 
+with the latest 32-bit and 64-bit Windows and Linux 
+operating systems. With Easy Install it's easier than 
+installing them directly on your PC."
+What is VMware Workstation Player? | FAQs
+https://www.vmware.com/products/player/faqs.html#:~:text=Use%20VMware%20Workstation%20Player%20to,them%20directly%20on%20your%20PC.
+
+VMware Workstation 15 Player v15.5
+https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
